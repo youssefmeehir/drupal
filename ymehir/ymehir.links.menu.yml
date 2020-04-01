@@ -1,0 +1,6 @@
+ymehir.content:
+  title: 'content adahliz'
+  route_name: adahliz.content
+  menu_name: main
+  description: 'to adahliz content page'
+  weight: 10

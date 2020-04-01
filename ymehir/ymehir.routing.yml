@@ -1,0 +1,7 @@
+ymehir.content:
+  path: '/ymehir'
+  defaults:
+    _controller: 'Drupal\ymehir\Controller\Controller::content'
+    _title: 'Ma première page dans mon premier module en Drupal8'
+  requirements:
+    _permission: 'access content'
